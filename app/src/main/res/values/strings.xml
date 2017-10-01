@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SafetyApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_num_1">Mobile no 1</string>
+    <string name="phone_num_2">Mobile no 2</string>
+    <string name="phone_num_3">Mobile no 3</string>
+</resources>
